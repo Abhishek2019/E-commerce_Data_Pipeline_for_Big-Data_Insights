@@ -1,4 +1,4 @@
-# SP24-I535-awalaval-asofashion-data
+#  Implementation of Big Data Pipeline for E-commerce Insight Retrieval
 
 # Project Overview
 My goal is to choreograph a smooth flow of data, streamlining extraction, transformation, and loading (ETL) processes. Through the periodic submission of Spark jobs, I delve into exploratory data analysis (EDA) and data transformation, unearthing insights and fine-tuning my data for deeper analysis. Come along as I navigate the realms of distributed computing and database management, crafting a resilient and flexible pipeline to handle my data with accuracy and agility.
